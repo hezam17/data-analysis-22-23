@@ -1,9 +1,11 @@
 # Разработка рекомендательных систем бизнес-задачу(ритейл)
 * Мы анализируем набор данных онлайн-магазинов и предоставляем рекомендации пользователю B в зависимости от модели покупок пользователя A, составляем список из 10 лучших похожих товаров на основе матрицы сходства consine от SkLearn.
 
-Vedio : https://youtu.be/abYXwxtNrN4
+
+* [Vedio](https://youtu.be/abYXwxtNrN4)
 
 
+* [Code ](https://github.com/hezam17/data-analysis-22-23/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%D1%80%D0%B8%D1%82%D0%B5%D0%B9%D0%BB.ipynb)
 
 # Retail Data Set:
 * Invoice No: Выставление счета
