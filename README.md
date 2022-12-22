@@ -5,21 +5,21 @@
 
 
 # Retail Data Set:
-Invoice No: Выставление счета
+* Invoice No: Выставление счета
 
-StockCode : Биржевой код
+* StockCode : Биржевой код
 
-Description : Описание
+* Description : Описание
 
-Quantity : Количество
+* Quantity : Количество
 
-InvoiceDate : Дата выставления счета
+* InvoiceDate : Дата выставления счета
 
-UnitPrice : цена за единицу
+* UnitPrice : цена за единицу
 
-CustomerID : Идентификатор клиента
+* CustomerID : Идентификатор клиента
 
-Country : Страна
+* Country : Страна
 
 # Результат:
 
