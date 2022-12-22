@@ -22,6 +22,7 @@
 * Country : Страна
 
 # Результат:
+![image](https://user-images.githubusercontent.com/71325647/209153764-d73c8b59-7576-4a2e-93d4-0674b7d7a637.png)
 
 
 # Выполнили:
